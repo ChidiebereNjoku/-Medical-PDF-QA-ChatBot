@@ -8,7 +8,7 @@ import tempfile
 import os
 
 # Initialize Groq client
-client = Groq(api_key="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")
+client = Groq(api_key="********************************")
 
 # Function to load and extract text from a PDF file
 def load_pdf(file):
